@@ -1,0 +1,16 @@
+<button id=card1>insert_integer</button>
+
+css:
+.button { //for universal button settings like size and position
+    position: relative; //button moves if the page is resized\
+    border: none;
+    font-size: 20px
+}
+
+#card1 { //position individual buttons
+    color: insert_color_variable_for_card
+    top:
+    left:
+    bottom:
+    right:
+}
